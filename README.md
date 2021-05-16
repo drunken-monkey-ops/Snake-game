@@ -1,5 +1,5 @@
 # INTRODUCTION
--  A simple snake game with audio and minimal graphichs required.
+-  A simple snake game with audio and minimal graphics required.
 - Got idea from Javidx9 Youtube series.
 - Used VC++.
 
